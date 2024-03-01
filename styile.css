@@ -1,0 +1,51 @@
+.garantia{
+    font-size: 16px;
+}
+.diagnostic{
+    font-size: 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(9, 1fr);
+    margin-left: 5%;
+    margin-right: 20%;
+}
+.Buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+.fon{
+    background-image: url('pc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.block{
+    color: #FFFFFF;
+    text-align: left;
+    margin-left: 60px;
+    margin-right: 5%;
+    padding-top:  50px;
+    text-align: left;
+}
+p1{
+    color: azure;
+    
+}
+img {
+        margin-top: 15px; 
+        width: 150px;
+        margin-left: 75%;
+        margin-right: auto;
+}
+.zaivka{
+margin-left: 50%;
+}
+.Codm{
+    grid-column-start: 2;
+}
+.contakt{
+    background-color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
